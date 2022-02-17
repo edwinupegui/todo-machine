@@ -1,0 +1,13 @@
+.sectionTodoList{
+  background-color: #2c343f;
+  border-radius: 8px;
+  display: flex;
+  flex-direction: column;
+  padding: 20px 100px;
+  
+}
+ul {
+  margin: 0;
+  padding: 0 0 56px 0;
+  list-style: none;
+}
