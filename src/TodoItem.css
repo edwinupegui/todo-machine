@@ -37,7 +37,7 @@
 .Icon-check {
   position: absolute;
   left: 12px;
-  color: #236364;
+  color: #f9f9f9;
 }
 .Icon-check--active {
   color: #236364;
@@ -49,5 +49,5 @@
   right: 0;
 }
 .Icon-delete:hover {
-  color: red;
+  color: rgb(122, 29, 29);
 }
