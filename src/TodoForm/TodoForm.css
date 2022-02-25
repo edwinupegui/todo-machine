@@ -19,10 +19,10 @@ label {
 }
 
 textarea {
-  background-color: #4a5461;
+  background-color: #3c434f;
   border: 2px, solid #202329;
   border-radius: 8px;
-  color: #1E1E1F;
+  color: white;
   font-size: 20px;
   text-align: center;
   padding: 12px;
